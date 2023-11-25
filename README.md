@@ -1,5 +1,5 @@
 # Mobile Price Range Prediction
-![download (3)](https://github.com/KushalChakraborty1995/Mobile_Price_Range_Prediction/assets/114491920/0aa8bcf5-c7b1-4917-aac2-6417db16ef61)
+![download (3)](https://github.com/Nilesh685/Mobile_Price_Range_Prediction/assets/114491920/0aa8bcf5-c7b1-4917-aac2-6417db16ef61)
 
 ## Problem Statement:-
 
